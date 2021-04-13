@@ -1,0 +1,13 @@
+Package: PRODBINOM
+Type: Package
+Title: Product of Independent Binomail Distributions
+Version: 1.0
+Date: 2021-04-13
+Author: Søren B. Vilsen
+Maintainer: Søren B. Vilsen <svilsen@math.aau.dk>
+Description: Density, distribution, quantile, and random generation functions for products of independent binomial distributions.
+License: MIT + LICENSE
+Imports: Rcpp (>= 1.0.4.6)
+LinkingTo: Rcpp, RcppArmadillo
+Encoding: UTF-8
+RoxygenNote: 7.1.1
